@@ -1,5 +1,5 @@
 # Register-Form
-Register form is a practice a bout form using by html and css and media quire to make form resposive.
+Register form is a practice a bout form using by html and css and media quire to make form resposive and use fontawesom library to use icon.
 
 <br>
 
